@@ -1,1 +1,1 @@
-# si539_week3_inclassactivity
+# 339 Week 3 in class CSS practice
